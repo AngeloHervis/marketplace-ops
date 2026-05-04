@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MarketplaceOps.Api/MarketplaceOps.Api.csproj" />
+  <Project Path="MarketplaceOps.Core/MarketplaceOps.Core.csproj" />
+  <Project Path="MarketplaceOps.Infrastructure/MarketplaceOps.Infrastructure.csproj" />
+</Solution>
